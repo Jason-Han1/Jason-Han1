@@ -24,4 +24,4 @@
 
 ⭐️ From [Jason-Han1](https://github.com/Jason-Han1)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jason-Han1&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jason-Han1&theme=chartreuse-dark&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
